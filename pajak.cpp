@@ -28,7 +28,7 @@ public:
     int setHarga()
     {
         cout << "Masukkan Harga Barang    : ";
-        cin >> hrg;
+        cin >> hrga;
         cout << "Masukkan Ongkos Kirim    : ";
         cin >> ongkir;
         cout << endl;
